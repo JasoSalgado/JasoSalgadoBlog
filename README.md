@@ -22,7 +22,7 @@
 
 
 #### Link:
-Go to: jasosalgadoblog.herokuapp.com
+Go to: [(jasosalgadoblog.herokuapp.com)]
 
 > Book: django 2 by example
 > By Antonio Melé
